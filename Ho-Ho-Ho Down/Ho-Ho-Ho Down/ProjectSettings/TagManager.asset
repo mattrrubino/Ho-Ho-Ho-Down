@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - boundary
+  - ornament
+  - elf
+  - health
+  - elfground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Elf
+  - Santa
+  - ElfGround
+  - post
+  - particledestroyer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackBackground
+    uniqueID: 710719789
+    locked: 0
+  - name: Inbetweenground
+    uniqueID: 3426827253
+    locked: 0
+  - name: Background
+    uniqueID: 1284860857
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 989143807
+    locked: 0
